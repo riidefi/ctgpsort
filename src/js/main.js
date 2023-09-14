@@ -79,8 +79,8 @@ function init() {
     if (timestamp && !timeTaken && !loading && choices.length === battleNo - 1) {
       switch(ev.key) {
         case 's': case '3':                   saveProgress('Progress'); break;
-        case 'h': case 'ArrowLeft':           pick('left'); break;
-        case 'l': case 'ArrowRight':          pick('right'); break;
+        case 'h': case 'ArrowLeft': case 'z':           pick('left'); break;
+        case 'l': case 'ArrowRight':  case 'x': case 'm':        pick('right'); break;
         case 'k': case '1': case 'ArrowUp':   pick('tie'); break;
         case 'j': case '2': case 'ArrowDown': undo(); break;
         default: break;

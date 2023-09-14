@@ -50,7 +50,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
     {
         "name": "Banished Keep",
-        "img": "c5DqpgX.png",
+        "img": "https://i.imgur.com/c5DqpgX.png",
         "opts": {
             "series": [
                 "book",
@@ -85,7 +85,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Desert Fort",
-        "img": "tJnkSzK.png",
+        "img": "https://i.imgur.com/tJnkSzK.png",
         "opts": {
             "series": [
                 "book",
@@ -122,7 +122,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mushroom Peaks",
-        "img": "0YT7QlS.png",
+        "img": "https://cdn.discordapp.com/attachments/217126063803727872/1151955250173984848/deadchamp.png",
         "opts": {
             "series": [
                 "book",
@@ -137,7 +137,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lava Lake",
-        "img": "NWlZud3.png",
+        "img": "https://i.imgur.com/NWlZud3.png",
         "opts": {
             "series": [
                 "book",
@@ -152,7 +152,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Glimmer Express Trains",
-        "img": "qdveFSy.png",
+        "img": "https://i.imgur.com/qdveFSy.png",
         "opts": {
             "series": [
                 "book",
@@ -174,7 +174,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Ribbon Road",
-        "img": "ptGp0x4.png",
+        "img": "https://i.imgur.com/ptGp0x4.png",
         "opts": {
             "series": [
                 "book",
@@ -190,7 +190,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Final Grounds",
-        "img": "vBKdDm4.png",
+        "img": "https://i.imgur.com/vBKdDm4.png",
         "opts": {
             "series": [
                 "book",
@@ -204,7 +204,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Boshi Skatepark",
-        "img": "A7ZnuHo.png",
+        "img": "https://i.imgur.com/A7ZnuHo.png",
         "opts": {
             "series": [
                 "book",
@@ -223,7 +223,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Yoshi Circuit",
-        "img": "sgZPf11.png",
+        "img": "https://i.imgur.com/sgZPf11.png",
         "opts": {
             "series": [
                 "book",
@@ -248,7 +248,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kinoko Cave",
-        "img": "8UX7hKE.png",
+        "img": "https://i.imgur.com/8UX7hKE.png",
         "opts": {
             "series": [
                 "book",
@@ -269,7 +269,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Airship Fortress",
-        "img": "OhaDcnc.png",
+        "img": "https://i.imgur.com/OhaDcnc.png",
         "opts": {
             "series": [
                 "book",
@@ -284,7 +284,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Skyline Avenue",
-        "img": "MgzqjFK.png",
+        "img": "https://i.imgur.com/MgzqjFK.png",
         "opts": {
             "series": [
                 "book",
@@ -299,7 +299,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Bowser Castle",
-        "img": "ohmetZh.png",
+        "img": "https://i.imgur.com/ohmetZh.png",
         "opts": {
             "series": [
                 "book",
@@ -318,7 +318,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DK Ruins",
-        "img": "aDIf0pN.png",
+        "img": "https://i.imgur.com/aDIf0pN.png",
         "opts": {
             "series": [
                 "book",
@@ -337,7 +337,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Luncheon Tour",
-        "img": "2Pr8b2N.png",
+        "img": "https://i.imgur.com/2Pr8b2N.png",
         "opts": {
             "series": [
                 "book",
@@ -354,7 +354,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Rainbow Road",
-        "img": "htOMdDQ.png",
+        "img": "https://i.imgur.com/htOMdDQ.png",
         "opts": {
             "series": [
                 "book",
@@ -370,7 +370,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N64 Yoshi Valley",
-        "img": "PrRPujP.png",
+        "img": "https://i.imgur.com/PrRPujP.png",
         "opts": {
             "series": [
                 "book",
@@ -386,7 +386,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Midnight Museum",
-        "img": "ze79bFC.png",
+        "img": "https://i.imgur.com/ze79bFC.png",
         "opts": {
             "series": [
                 "book",
@@ -402,7 +402,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Snow Land",
-        "img": "WMjyRLJ.png",
+        "img": "https://i.imgur.com/WMjyRLJ.png",
         "opts": {
             "series": [
                 "book",
@@ -426,7 +426,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Tick-Tock Clock",
-        "img": "VT9mTGb.png",
+        "img": "https://i.imgur.com/VT9mTGb.png",
         "opts": {
             "series": [
                 "book",
@@ -449,7 +449,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Bowser Castle 4",
-        "img": "rshnJPV.png",
+        "img": "https://i.imgur.com/rshnJPV.png",
         "opts": {
             "series": [
                 "book",
@@ -469,7 +469,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Candy Coaster",
-        "img": "qsceD4I.png",
+        "img": "https://i.imgur.com/qsceD4I.png",
         "opts": {
             "series": [
                 "book",
@@ -491,7 +491,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bowser Jr.'s Fort",
-        "img": "pLdMjQ3.png",
+        "img": "https://i.imgur.com/pLdMjQ3.png",
         "opts": {
             "series": [
                 "book",
@@ -511,7 +511,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Christmas Court",
-        "img": "8DLUAPf.png",
+        "img": "https://i.imgur.com/8DLUAPf.png",
         "opts": {
             "series": [
                 "book",
@@ -526,7 +526,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Northern Heights",
-        "img": "6KyhLqE.png",
+        "img": "https://i.imgur.com/6KyhLqE.png",
         "opts": {
             "series": [
                 "book",
@@ -542,7 +542,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Terra Ursae",
-        "img": "99w0Chm.png",
+        "img": "https://i.imgur.com/99w0Chm.png",
         "opts": {
             "series": [
                 "book",
@@ -559,7 +559,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bowser's Termination Station",
-        "img": "yqNfNje.png",
+        "img": "https://i.imgur.com/yqNfNje.png",
         "opts": {
             "series": [
                 "book",
@@ -575,7 +575,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Gothic Castle",
-        "img": "PrYzRcC.png",
+        "img": "https://i.imgur.com/PrYzRcC.png",
         "opts": {
             "series": [
                 "book",
@@ -594,7 +594,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Waluigi Pinball",
-        "img": "ceo4DhK.png",
+        "img": "https://i.imgur.com/ceo4DhK.png",
         "opts": {
             "series": [
                 "book",
@@ -610,7 +610,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Super Marine World",
-        "img": "2YDuTk3.png",
+        "img": "https://i.imgur.com/2YDuTk3.png",
         "opts": {
             "series": [
                 "book",
@@ -626,7 +626,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Rainbow Road",
-        "img": "3zo4VKV.png",
+        "img": "https://i.imgur.com/3zo4VKV.png",
         "opts": {
             "series": [
                 "book",
@@ -645,7 +645,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Garden of Dreams",
-        "img": "8TLXMST.png",
+        "img": "https://i.imgur.com/8TLXMST.png",
         "opts": {
             "series": [
                 "book",
@@ -665,7 +665,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lunar Lights",
-        "img": "IImsp7K.png",
+        "img": "https://i.imgur.com/IImsp7K.png",
         "opts": {
             "series": [
                 "book",
@@ -680,7 +680,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cherry Blossom Garden",
-        "img": "MZXJQq5.png",
+        "img": "https://i.imgur.com/MZXJQq5.png",
         "opts": {
             "series": [
                 "book",
@@ -695,7 +695,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Dino Dino Jungle",
-        "img": "aX4WIH8.png",
+        "img": "https://i.imgur.com/aX4WIH8.png",
         "opts": {
             "series": [
                 "book",
@@ -712,7 +712,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Windy Whirl",
-        "img": "nPBvatH.png",
+        "img": "https://i.imgur.com/nPBvatH.png",
         "opts": {
             "series": [
                 "book",
@@ -728,7 +728,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sandstone Cliffs",
-        "img": "3pDRgvR.png",
+        "img": "https://i.imgur.com/3pDRgvR.png",
         "opts": {
             "series": [
                 "MoF",
@@ -742,7 +742,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Vile Isle",
-        "img": "bV0DaN7.png",
+        "img": "https://i.imgur.com/bV0DaN7.png",
         "opts": {
             "series": [
                 "MoF",
@@ -756,7 +756,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Mario Circuit",
-        "img": "J11NjNj.png",
+        "img": "https://i.imgur.com/J11NjNj.png",
         "opts": {
             "series": [
                 "MoF",
@@ -770,7 +770,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wuhu Mountain",
-        "img": "4Ufced2.png",
+        "img": "https://i.imgur.com/4Ufced2.png",
         "opts": {
             "series": [
                 "MoF",
@@ -787,7 +787,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ice Cream Fortress",
-        "img": "qGMjnYk.png",
+        "img": "https://i.imgur.com/qGMjnYk.png",
         "opts": {
             "series": [
                 "MoF",
@@ -801,7 +801,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N64 Royal Raceway",
-        "img": "ATTRSWU.png",
+        "img": "https://i.imgur.com/ATTRSWU.png",
         "opts": {
             "series": [
                 "MoF",
@@ -823,7 +823,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N64 Rainbow Road",
-        "img": "nQ78Lz7.png",
+        "img": "https://i.imgur.com/nQ78Lz7.png",
         "opts": {
             "series": [
                 "MoF",
@@ -841,7 +841,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Baby Park",
-        "img": "yJaD5ZV.png",
+        "img": "https://i.imgur.com/yJaD5ZV.png",
         "opts": {
             "series": [
                 "MoF",
@@ -859,7 +859,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Lakeside Park",
-        "img": "xgAlECj.png",
+        "img": "https://i.imgur.com/xgAlECj.png",
         "opts": {
             "series": [
                 "SWR",
@@ -875,7 +875,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Rainbow Road",
-        "img": "tZLYivt.png",
+        "img": "https://i.imgur.com/tZLYivt.png",
         "opts": {
             "series": [
                 "SWR",
@@ -893,7 +893,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Melting Magma Melee",
-        "img": "VgJgaEf.png",
+        "img": "https://i.imgur.com/VgJgaEf.png",
         "opts": {
             "series": [
                 "SA",
@@ -906,7 +906,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lost Ruins",
-        "img": "sqgJ2St.png",
+        "img": "https://i.imgur.com/sqgJ2St.png",
         "opts": {
             "series": [
                 "SA",
@@ -920,7 +920,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "New Moon Manor",
-        "img": "lkoAJod.png",
+        "img": "https://i.imgur.com/lkoAJod.png",
         "opts": {
             "series": [
                 "SA",
@@ -934,7 +934,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Sky Garden",
-        "img": "tDO653L.png",
+        "img": "https://i.imgur.com/tDO653L.png",
         "opts": {
             "series": [
                 "SA",
@@ -948,7 +948,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Honeybee Hideout",
-        "img": "dup7Nt6.png",
+        "img": "https://i.imgur.com/dup7Nt6.png",
         "opts": {
             "series": [
                 "SA",
@@ -963,7 +963,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Neo Koopa City",
-        "img": "uQjbw1W.png",
+        "img": "https://i.imgur.com/uQjbw1W.png",
         "opts": {
             "series": [
                 "SA",
@@ -979,7 +979,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Big Express City",
-        "img": "DfdaXPW.png",
+        "img": "https://i.imgur.com/DfdaXPW.png",
         "opts": {
             "series": [
                 "SA",
@@ -995,7 +995,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Thump Bump Forest",
-        "img": "wVCcens.png",
+        "img": "https://i.imgur.com/wVCcens.png",
         "opts": {
             "series": [
                 "SA",
@@ -1012,7 +1012,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Bowser's Castle",
-        "img": "EpHQbiY.png",
+        "img": "https://i.imgur.com/EpHQbiY.png",
         "opts": {
             "series": [
                 "UFO",
@@ -1027,7 +1027,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dark Matter Fortress",
-        "img": "kJbv4dc.png",
+        "img": "https://i.imgur.com/kJbv4dc.png",
         "opts": {
             "series": [
                 "UFO",
@@ -1043,7 +1043,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Superstar Dystopia",
-        "img": "Fyn5yVx.png",
+        "img": "https://i.imgur.com/Fyn5yVx.png",
         "opts": {
             "series": [
                 "UFO",
@@ -1059,7 +1059,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Castle of Darkness",
-        "img": "39KYpvW.png",
+        "img": "https://i.imgur.com/39KYpvW.png",
         "opts": {
             "series": [
                 "UFO",
@@ -1073,7 +1073,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SNES Rainbow Road",
-        "img": "5yihisu.png",
+        "img": "https://i.imgur.com/5yihisu.png",
         "opts": {
             "series": [
                 "UFO",
@@ -1087,7 +1087,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dragon Burial Grounds",
-        "img": "2ppPxny.png",
+        "img": "https://i.imgur.com/2ppPxny.png",
         "opts": {
             "series": [
                 "UFO",
@@ -1105,7 +1105,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Obstagoon's Palace",
-        "img": "zL4S8Mj.png",
+        "img": "https://i.imgur.com/zL4S8Mj.png",
         "opts": {
             "series": [
                 "UFO",
@@ -1123,7 +1123,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Coin Heaven",
-        "img": "LgvoTaJ.png",
+        "img": "https://i.imgur.com/LgvoTaJ.png",
         "opts": {
             "series": [
                 "DS",
@@ -1137,7 +1137,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Marble Towers",
-        "img": "VbqXiB6.png",
+        "img": "https://i.imgur.com/VbqXiB6.png",
         "opts": {
             "series": [
                 "book",
@@ -1153,7 +1153,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Castle of Time",
-        "img": "OBqgP48.png",
+        "img": "https://i.imgur.com/OBqgP48.png",
         "opts": {
             "series": [
                 "book",
@@ -1169,7 +1169,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Shroom Ridge",
-        "img": "sNw61ap.png",
+        "img": "https://i.imgur.com/sNw61ap.png",
         "opts": {
             "series": [
                 "book",
@@ -1185,7 +1185,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Autumn Leavesway",
-        "img": "sLiqEBA.png",
+        "img": "https://i.imgur.com/sLiqEBA.png",
         "opts": {
             "series": [
                 "TD",
@@ -1199,7 +1199,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Siberian Chateau",
-        "img": "6jq6eh6.png",
+        "img": "https://i.imgur.com/6jq6eh6.png",
         "opts": {
             "series": [
                 "TD",
@@ -1214,7 +1214,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Daisy Cruiser",
-        "img": "090hLPL.png",
+        "img": "https://i.imgur.com/090hLPL.png",
         "opts": {
             "series": [
                 "TD",
@@ -1228,7 +1228,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bowser's Fiery Fortress",
-        "img": "y0UXwFO.png",
+        "img": "https://i.imgur.com/y0UXwFO.png",
         "opts": {
             "series": [
                 "TD",
@@ -1241,7 +1241,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Wario Stadium",
-        "img": "WTZ97LE.png",
+        "img": "https://i.imgur.com/WTZ97LE.png",
         "opts": {
             "series": [
                 "TD",
@@ -1257,7 +1257,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Mario Circuit",
-        "img": "3Xiqd22.png",
+        "img": "https://i.imgur.com/3Xiqd22.png",
         "opts": {
             "series": [
                 "TD",
@@ -1274,7 +1274,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jungle Ruins",
-        "img": "gMpWdmA.png",
+        "img": "https://i.imgur.com/gMpWdmA.png",
         "opts": {
             "series": [
                 "TD",
@@ -1291,7 +1291,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "White Garden",
-        "img": "fxCGmUk.png",
+        "img": "https://i.imgur.com/fxCGmUk.png",
         "opts": {
             "series": [
                 "book",
@@ -1306,7 +1306,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Bowser Castle 2",
-        "img": "brWCLVx.png",
+        "img": "https://i.imgur.com/brWCLVx.png",
         "opts": {
             "series": [
                 "DDC",
@@ -1319,7 +1319,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Volcanic Valley",
-        "img": "VAMLiJD.png",
+        "img": "https://i.imgur.com/VAMLiJD.png",
         "opts": {
             "series": [
                 "DDC",
@@ -1332,7 +1332,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Toad Raceway",
-        "img": "qwwL0bB.png",
+        "img": "https://i.imgur.com/qwwL0bB.png",
         "opts": {
             "series": [
                 "DDC",
@@ -1345,7 +1345,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Luigi's Mansion",
-        "img": "vWNeMaH.png",
+        "img": "https://i.imgur.com/vWNeMaH.png",
         "opts": {
             "series": [
                 "DDC",
@@ -1359,7 +1359,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N64 Banshee Boardwalk",
-        "img": "EJFQHQN.png",
+        "img": "https://i.imgur.com/EJFQHQN.png",
         "opts": {
             "series": [
                 "DDC",
@@ -1373,7 +1373,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Big Nature City",
-        "img": "16RUacj.png",
+        "img": "https://i.imgur.com/16RUacj.png",
         "opts": {
             "series": [
                 "DDC",
@@ -1387,7 +1387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wolf Castlegrounds",
-        "img": "Zl2tN7W.png",
+        "img": "https://i.imgur.com/Zl2tN7W.png",
         "opts": {
             "series": [
                 "DDC",
@@ -1403,7 +1403,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rush City Run",
-        "img": "SLLEccR.png",
+        "img": "https://i.imgur.com/SLLEccR.png",
         "opts": {
             "series": [
                 "DDC",
@@ -1418,7 +1418,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sahara Hideout",
-        "img": "mc7ICW6.png",
+        "img": "https://i.imgur.com/mc7ICW6.png",
         "opts": {
             "series": [
                 "ULiL",
@@ -1432,7 +1432,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Amanita Abyss",
-        "img": "0ra00WG.png",
+        "img": "https://i.imgur.com/0ra00WG.png",
         "opts": {
             "series": [
                 "LoLK",
@@ -1445,7 +1445,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Sunset Wilds",
-        "img": "xQOsFlZ.png",
+        "img": "https://i.imgur.com/xQOsFlZ.png",
         "opts": {
             "series": [
                 "LoLK",
@@ -1458,7 +1458,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wuhu Island",
-        "img": "rGS7dyn.png",
+        "img": "https://i.imgur.com/rGS7dyn.png",
         "opts": {
             "series": [
                 "LoLK",
@@ -1473,7 +1473,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Boo Lake",
-        "img": "HLT338X.png",
+        "img": "https://i.imgur.com/HLT338X.png",
         "opts": {
             "series": [
                 "LoLK",
@@ -1486,7 +1486,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yoshi's Woolly Raceway",
-        "img": "9Jje7ZQ.jpg",
+        "img": "https://i.imgur.com/9Jje7ZQ.jpg",
         "opts": {
             "series": [
                 "LoLK",
@@ -1499,7 +1499,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Abyssal Ruins",
-        "img": "NsfLZjY.jpg",
+        "img": "https://i.imgur.com/NsfLZjY.jpg",
         "opts": {
             "series": [
                 "LoLK",
@@ -1513,7 +1513,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kamek's Library",
-        "img": "EH3Ulol.png",
+        "img": "https://i.imgur.com/EH3Ulol.png",
         "opts": {
             "series": [
                 "LoLK",
@@ -1526,7 +1526,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS DK Pass",
-        "img": "ql5KxJH.png",
+        "img": "https://i.imgur.com/ql5KxJH.png",
         "opts": {
             "series": [
                 "HSiFS",
@@ -1539,7 +1539,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stargaze Summit",
-        "img": "gYFhJ3Y.png",
+        "img": "https://i.imgur.com/gYFhJ3Y.png",
         "opts": {
             "series": [
                 "HSiFS",
@@ -1552,7 +1552,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Broken Pier",
-        "img": "wWUStkF.png",
+        "img": "https://i.imgur.com/wWUStkF.png",
         "opts": {
             "series": [
                 "HSiFS",
@@ -1565,7 +1565,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Aquadrom Stage",
-        "img": "wrPVhAo.png",
+        "img": "https://i.imgur.com/wrPVhAo.png",
         "opts": {
             "series": [
                 "HSiFS",
@@ -1578,7 +1578,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Abandoned Boardwalk",
-        "img": "8w9gAy2.png",
+        "img": "https://i.imgur.com/8w9gAy2.png",
         "opts": {
             "series": [
                 "HSiFS",
@@ -1591,7 +1591,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SNES Bowser Castle 3",
-        "img": "DesAqAC.png",
+        "img": "https://i.imgur.com/DesAqAC.png",
         "opts": {
             "series": [
                 "HSiFS",
@@ -1604,7 +1604,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Mushroom Bridge",
-        "img": "icWvMyo.png",
+        "img": "https://i.imgur.com/icWvMyo.png",
         "opts": {
             "series": [
                 "HSiFS",
@@ -1618,7 +1618,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Flying Kingdom",
-        "img": "LenxXR4.png",
+        "img": "https://i.imgur.com/LenxXR4.png",
         "opts": {
             "series": [
                 "AoCF"
@@ -1630,7 +1630,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rainbow Road: Solar Edition",
-        "img": "V9OznT1.png",
+        "img": "https://i.imgur.com/V9OznT1.png",
         "opts": {
             "series": [
                 "AoCF"
@@ -1642,7 +1642,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Cheep Cheep Beach",
-        "img": "Ke3316E.png",
+        "img": "https://i.imgur.com/Ke3316E.png",
         "opts": {
             "series": [
                 "WBaWC"
@@ -1654,7 +1654,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "CTR Cortex Castle",
-        "img": "ru2vIIW.png",
+        "img": "https://i.imgur.com/ru2vIIW.png",
         "opts": {
             "series": [
                 "WBaWC"
@@ -1666,7 +1666,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Musical Motorway",
-        "img": "QTQt0ZL.png",
+        "img": "https://i.imgur.com/QTQt0ZL.png",
         "opts": {
             "series": [
                 "WBaWC"
@@ -1678,7 +1678,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jiyuu Village",
-        "img": "CzcIMxF.png",
+        "img": "https://i.imgur.com/CzcIMxF.png",
         "opts": {
             "series": [
                 "WBaWC"
@@ -1690,7 +1690,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SNES Bowser Castle 2",
-        "img": "GxeziYO.png",
+        "img": "https://i.imgur.com/GxeziYO.png",
         "opts": {
             "series": [
                 "WBaWC"
@@ -1702,7 +1702,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Pipe Underworld",
-        "img": "Z4jclTi.png",
+        "img": "https://i.imgur.com/Z4jclTi.png",
         "opts": {
             "series": [
                 "WBaWC"
@@ -1714,7 +1714,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mario Castle Raceway",
-        "img": "H2v2GPy.png",
+        "img": "https://i.imgur.com/H2v2GPy.png",
         "opts": {
             "series": [
                 "WBaWC"
@@ -1726,7 +1726,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lost Fortress",
-        "img": "FltSdtv.png",
+        "img": "https://i.imgur.com/FltSdtv.png",
         "opts": {
             "series": [
                 "UM"
@@ -1738,7 +1738,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fungal Jungle",
-        "img": "Aaq99GQ.png",
+        "img": "https://i.imgur.com/Aaq99GQ.png",
         "opts": {
             "series": [
                 "UM"
@@ -1750,7 +1750,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hell Pyramid",
-        "img": "DKupiv1.png",
+        "img": "https://i.imgur.com/DKupiv1.png",
         "opts": {
             "series": [
                 "UM"
@@ -1762,7 +1762,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Infernal Pipeyard",
-        "img": "BHwfCAQ.png",
+        "img": "https://i.imgur.com/BHwfCAQ.png",
         "opts": {
             "series": [
                 "UM"
@@ -1774,7 +1774,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Piranha Plant Pipeline",
-        "img": "KNy3FZq.png",
+        "img": "https://i.imgur.com/KNy3FZq.png",
         "opts": {
             "series": [
                 "UM"
@@ -1788,7 +1788,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Delfino Island",
-        "img": "QA63m27.png",
+        "img": "https://i.imgur.com/QA63m27.png",
         "opts": {
             "series": [
                 "UM"
@@ -1800,7 +1800,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N64 Choco Mountain",
-        "img": "Ga4AYtv.png",
+        "img": "https://i.imgur.com/Ga4AYtv.png",
         "opts": {
             "series": [
                 "UM"
@@ -1812,7 +1812,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shy Guy's Market",
-        "img": "iH2wqbd.png",
+        "img": "https://i.imgur.com/iH2wqbd.png",
         "opts": {
             "series": [
                 "UM"
@@ -1824,7 +1824,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Luigi Circuit",
-        "img": "ogONuLZ.png",
+        "img": "https://i.imgur.com/ogONuLZ.png",
         "opts": {
             "series": [
                 "book"
@@ -1834,7 +1834,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Alpine Peak",
-        "img": "Y4maOc8.png",
+        "img": "https://i.imgur.com/Y4maOc8.png",
         "opts": {
             "series": [
                 "book"
@@ -1845,7 +1845,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Quaking Mad Cliffs",
-        "img": "cWjCo2j.png",
+        "img": "https://i.imgur.com/cWjCo2j.png",
         "opts": {
             "series": [
                 "book"
@@ -1855,7 +1855,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Luigi's Island",
-        "img": "uEBxsEX.png",
+        "img": "https://i.imgur.com/uEBxsEX.png",
         "opts": {
             "series": [
                 "book"
@@ -1865,7 +1865,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Concord Town",
-        "img": "Txu2P7S.png",
+        "img": "https://i.imgur.com/Txu2P7S.png",
         "opts": {
             "series": [
                 "book"
@@ -1875,7 +1875,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wetland Woods",
-        "img": "XUI9vPo.png",
+        "img": "https://i.imgur.com/XUI9vPo.png",
         "opts": {
             "series": [
                 "book"
@@ -1885,7 +1885,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Pianta Shore",
-        "img": "1P5EXRt.png",
+        "img": "https://i.imgur.com/1P5EXRt.png",
         "opts": {
             "series": [
                 "book"
@@ -1895,7 +1895,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mystic Tangle",
-        "img": "dQHnPPe.png",
+        "img": "https://i.imgur.com/dQHnPPe.png",
         "opts": {
             "series": [
                 "book",
@@ -1909,7 +1909,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Crystal Plains",
-        "img": "jEsJJo8.png",
+        "img": "https://i.imgur.com/jEsJJo8.png",
         "opts": {
             "series": [
                 "book"
@@ -1919,7 +1919,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Canyon Run",
-        "img": "a5V63gx.png",
+        "img": "https://i.imgur.com/a5V63gx.png",
         "opts": {
             "series": [
                 "book"
@@ -1929,7 +1929,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Festival Town",
-        "img": "IZsGAMS.png",
+        "img": "https://i.imgur.com/IZsGAMS.png",
         "opts": {
             "series": [
                 "HRtP",
@@ -1946,7 +1946,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "The Rabbit Hole",
-        "img": "KuPiR2k.png",
+        "img": "https://i.imgur.com/KuPiR2k.png",
         "opts": {
             "series": [
                 "HRtP"
@@ -1958,7 +1958,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dark Matter Shrine",
-        "img": "odH03t2.png",
+        "img": "https://i.imgur.com/odH03t2.png",
         "opts": {
             "series": [
                 "HRtP",
@@ -1975,7 +1975,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fishdom Island",
-        "img": "ytnL1xd.png",
+        "img": "https://i.imgur.com/ytnL1xd.png",
         "opts": {
             "series": [
                 "HRtP"
@@ -1987,7 +1987,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rock Rock Ridge",
-        "img": "fX2Kqik.png",
+        "img": "https://i.imgur.com/fX2Kqik.png",
         "opts": {
             "series": [
                 "HRtP"
@@ -1999,7 +1999,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Alpine Skyway",
-        "img": "Wyc7YFw.png",
+        "img": "https://i.imgur.com/Wyc7YFw.png",
         "opts": {
             "series": [
                 "HRtP"
@@ -2011,7 +2011,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mushroom Island",
-        "img": "dg9jLHv.png",
+        "img": "https://i.imgur.com/dg9jLHv.png",
         "opts": {
             "series": [
                 "HRtP"
@@ -2023,7 +2023,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Desert Castle Raceway",
-        "img": "02Xb4pU.png",
+        "img": "https://i.imgur.com/02Xb4pU.png",
         "opts": {
             "series": [
                 "SoEW"
@@ -2036,7 +2036,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Crystal Dungeon",
-        "img": "p529JgT.png",
+        "img": "https://i.imgur.com/p529JgT.png",
         "opts": {
             "series": [
                 "SoEW"
@@ -2048,7 +2048,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Sherbet Land",
-        "img": "wxE7cBm.png",
+        "img": "https://i.imgur.com/wxE7cBm.png",
         "opts": {
             "series": [
                 "SoEW",
@@ -2064,7 +2064,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yoshi Lagoon",
-        "img": "3iNNL0c.png",
+        "img": "https://i.imgur.com/3iNNL0c.png",
         "opts": {
             "series": [
                 "PoDD"
@@ -2074,7 +2074,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Melody Sanctum",
-        "img": "kRSGtpq.png",
+        "img": "https://i.imgur.com/kRSGtpq.png",
         "opts": {
             "series": [
                 "PoDD"
@@ -2084,7 +2084,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Riverside Park",
-        "img": "rBvKMk5.png",
+        "img": "https://i.imgur.com/rBvKMk5.png",
         "opts": {
             "series": [
                 "PoDD"
@@ -2094,7 +2094,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Camp Kartigan",
-        "img": "VIf5gUK.png",
+        "img": "https://i.imgur.com/VIf5gUK.png",
         "opts": {
             "series": [
                 "PoDD"
@@ -2104,7 +2104,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SNES Mario Circuit 2",
-        "img": "tZFBycy.png",
+        "img": "https://i.imgur.com/tZFBycy.png",
         "opts": {
             "series": [
                 "PoDD"
@@ -2116,7 +2116,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Royal Rainbow",
-        "img": "c9rnG3n.png",
+        "img": "https://i.imgur.com/c9rnG3n.png",
         "opts": {
             "series": [
                 "PoDD"
@@ -2128,7 +2128,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Incendia Castle",
-        "img": "dko67SJ.png",
+        "img": "https://i.imgur.com/dko67SJ.png",
         "opts": {
             "series": [
                 "PoDD"
@@ -2138,7 +2138,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N64 Wario Stadium",
-        "img": "m8wXE5U.png",
+        "img": "https://i.imgur.com/m8wXE5U.png",
         "opts": {
             "series": [
                 "LLS"
@@ -2150,7 +2150,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Wario Colosseum",
-        "img": "0rvq1ph.png",
+        "img": "https://i.imgur.com/0rvq1ph.png",
         "opts": {
             "series": [
                 "LLS"
@@ -2162,7 +2162,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jungle Glade",
-        "img": "iIPftHn.png",
+        "img": "https://i.imgur.com/iIPftHn.png",
         "opts": {
             "series": [
                 "LLS"
@@ -2174,7 +2174,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Desktop Dash",
-        "img": "ivUSwxp.png",
+        "img": "https://i.imgur.com/ivUSwxp.png",
         "opts": {
             "series": [
                 "LLS",
@@ -2189,7 +2189,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Six King Labyrinth",
-        "img": "bYA9E16.png",
+        "img": "https://i.imgur.com/bYA9E16.png",
         "opts": {
             "series": [
                 "LLS"
@@ -2201,7 +2201,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lumpy's Lively Lair",
-        "img": "TIOTtV9.png",
+        "img": "https://i.imgur.com/TIOTtV9.png",
         "opts": {
             "series": [
                 "LLS"
@@ -2213,7 +2213,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SNES Donut Plains 3",
-        "img": "2QUbCrU.png",
+        "img": "https://i.imgur.com/2QUbCrU.png",
         "opts": {
             "series": [
                 "MS"
@@ -2225,7 +2225,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Twin Peaks",
-        "img": "nDM5aB6.png",
+        "img": "https://i.imgur.com/nDM5aB6.png",
         "opts": {
             "series": [
                 "MS"
@@ -2238,7 +2238,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Colour Wonderland",
-        "img": "KaBuRTW.png",
+        "img": "https://i.imgur.com/KaBuRTW.png",
         "opts": {
             "series": [
                 "MS"
@@ -2252,7 +2252,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N64 Frappe Snowland",
-        "img": "FfcmDgp.png",
+        "img": "https://i.imgur.com/FfcmDgp.png",
         "opts": {
             "series": [
                 "MS"
@@ -2264,7 +2264,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jungle Cliff",
-        "img": "r6w7TX1.png",
+        "img": "https://i.imgur.com/r6w7TX1.png",
         "opts": {
             "series": [
                 "MS"
@@ -2276,7 +2276,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Celestial Ruins",
-        "img": "PcPqkdO.png",
+        "img": "https://i.imgur.com/PcPqkdO.png",
         "opts": {
             "series": [
                 "MS"
@@ -2288,7 +2288,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dawn Township",
-        "img": "gPE95S7.png",
+        "img": "https://i.imgur.com/0YT7QlS.png",
         "opts": {
             "series": [
                 "MS"
@@ -2300,7 +2300,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Medieval Castlegrounds",
-        "img": "c5DqpgX.png",
+        "img": "https://i.imgur.com/gPE95S7.png",
         "opts": {
             "series": [
                 "book",
@@ -2335,7 +2335,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Warp Pipe Island",
-        "img": "tJnkSzK.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958653167992852/BsVAClC.png",
         "opts": {
             "series": [
                 "book",
@@ -2372,7 +2372,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Koopa Shell Pipeland",
-        "img": "0YT7QlS.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958653528715344/0f5IHG7.png",
         "opts": {
             "series": [
                 "book",
@@ -2387,7 +2387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lava Road",
-        "img": "NWlZud3.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958653897801908/3v0pPH1.png",
         "opts": {
             "series": [
                 "book",
@@ -2402,7 +2402,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Musical Cliff",
-        "img": "qdveFSy.png",
+        "img": "https://i.imgur.com/qdveFSy.png",
         "opts": {
             "series": [
                 "book",
@@ -2424,7 +2424,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rosalina's Snow World‎",
-        "img": "ptGp0x4.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958654157861014/06c9efca6f2e16d7d28b41554445127d.png",
         "opts": {
             "series": [
                 "book",
@@ -2440,7 +2440,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Spectral Station",
-        "img": "vBKdDm4.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958654501802015/9pww5pzvlp981.png",
         "opts": {
             "series": [
                 "book",
@@ -2454,7 +2454,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Mushroom City",
-        "img": "A7ZnuHo.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958654942183505/9yqdO5R.png",
         "opts": {
             "series": [
                 "book",
@@ -2473,7 +2473,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Underground Sky",
-        "img": "sgZPf11.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958654942183505/9yqdO5R.png",
         "opts": {
             "series": [
                 "book",
@@ -2498,7 +2498,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GCN Dry Dry Desert",
-        "img": "8UX7hKE.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958655319683112/48jjhgpad8y51.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2519,7 +2519,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "CTR N. Gin Labs",
-        "img": "OhaDcnc.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958655663603712/422ba474a0506609819fb9887b13581f.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2534,7 +2534,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N64 Koopa Troopa Beach",
-        "img": "MgzqjFK.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958656074657884/9fFjVMk.png",
         "opts": {
             "series": [
                 "book",
@@ -2549,7 +2549,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Halogen Highway",
-        "img": "ohmetZh.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958729995067454/104724.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2568,7 +2568,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Daisy Hillside",
-        "img": "aDIf0pN.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958730259312751/ck6qgI1.png",
         "opts": {
             "series": [
                 "book",
@@ -2587,7 +2587,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sky High Island",
-        "img": "2Pr8b2N.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958730506784909/e0593987ac4fb40b2aba0d8e0df76915.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2604,7 +2604,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Cheese Land",
-        "img": "htOMdDQ.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958730762625105/EHUS1SKUUAEk8VM.png",
         "opts": {
             "series": [
                 "book",
@@ -2620,7 +2620,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sunset Forest",
-        "img": "PrRPujP.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958731031064617/893e974e5a26934392af1d3f1eba0afe.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2636,7 +2636,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Undiscovered Offlimit",
-        "img": "ze79bFC.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958731274342440/104720.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2652,7 +2652,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Thwomp Swamp",
-        "img": "WMjyRLJ.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958731484045392/104721.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2676,7 +2676,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Luigi Circuit",
-        "img": "VT9mTGb.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958731706347630/104722.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2699,7 +2699,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Cheep Cheep Island",
-        "img": "rshnJPV.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958731928653994/104723.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2719,7 +2719,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "CTR Blizzard Bluff",
-        "img": "qsceD4I.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958759028035604/Fkyux24WIAA84nz.png",
         "opts": {
             "series": [
                 "book",
@@ -2741,7 +2741,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jungle Jamble",
-        "img": "pLdMjQ3.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958759283896370/FQvYCbc.png",
         "opts": {
             "series": [
                 "book",
@@ -2761,7 +2761,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Summer Starville",
-        "img": "8DLUAPf.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958759522963586/FVLDavHWUAEragh.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2776,7 +2776,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Peach Circuit",
-        "img": "6KyhLqE.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958759816572948/image.png",
         "opts": {
             "series": [
                 "book",
@@ -2792,7 +2792,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Daisy's Palace",
-        "img": "99w0Chm.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958760210829474/images_1.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2809,7 +2809,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mansion of Madness",
-        "img": "yqNfNje.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958760642838548/IMG_8386.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2825,7 +2825,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SNES Mario Circuit 1",
-        "img": "PrYzRcC.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958760928063579/jKRu0xZ.png",
         "opts": {
             "series": [
                 "book",
@@ -2844,7 +2844,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Envenom Snowstorm",
-        "img": "ceo4DhK.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958761192296488/Eww65JeUYAkUjZT.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2860,7 +2860,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Spike Desert",
-        "img": "2YDuTk3.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958761523654686/F2KtF_aaoAEAf9n.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2876,7 +2876,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tropical Factory",
-        "img": "3zo4VKV.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958798974586880/May.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2895,7 +2895,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Windmill Village",
-        "img": "8TLXMST.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958799343702056/May2.png",
         "opts": {
             "series": [
                 "book",
@@ -2915,7 +2915,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N64 Kalimari Desert",
-        "img": "IImsp7K.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958799691821076/May4.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2930,7 +2930,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GBA Bowser Castle 1",
-        "img": "MZXJQq5.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958800102871070/May5.png",
         "opts": {
             "series": [
                 "book",
@@ -2945,7 +2945,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Colour Circuit",
-        "img": "aX4WIH8.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958800379686974/Minnie-May-Hopkins-Gunsmith-Cats-manga-f.jpg",
         "opts": {
             "series": [
                 "book",
@@ -2962,7 +2962,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Unfinished Mario Circuit",
-        "img": "nPBvatH.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958800698445834/mugi.png",
         "opts": {
             "series": [
                 "book",
@@ -2978,7 +2978,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SNES Choco Island 2",
-        "img": "3pDRgvR.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958801017221130/mzbLkiN.png",
         "opts": {
             "series": [
                 "MoF",
@@ -2992,7 +2992,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dragonite's Island",
-        "img": "bV0DaN7.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958801331785829/mamimiPray.png",
         "opts": {
             "series": [
                 "MoF",
@@ -3006,7 +3006,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Haunted Gardens",
-        "img": "J11NjNj.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958802032242718/mamimiWAAAAAH.png",
         "opts": {
             "series": [
                 "MoF",
@@ -3020,7 +3020,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Aura Metropolis",
-        "img": "4Ufced2.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958824891195442/slgOLYI.png",
         "opts": {
             "series": [
                 "MoF",
@@ -3037,7 +3037,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakura Sanctuary",
-        "img": "qGMjnYk.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958825134473286/ttDbdVY.png",
         "opts": {
             "series": [
                 "MoF",
@@ -3051,7 +3051,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N.I.S.W.O.E. Desert",
-        "img": "ATTRSWU.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958825369337976/y4F86vq.png",
         "opts": {
             "series": [
                 "MoF",
@@ -3073,7 +3073,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sky Shrine",
-        "img": "nQ78Lz7.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958825658753045/2I6T6aO.png",
         "opts": {
             "series": [
                 "MoF",
@@ -3091,7 +3091,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nivurbia",
-        "img": "yJaD5ZV.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958825906225272/5a2bar.png",
         "opts": {
             "series": [
                 "MoF",
@@ -3109,7 +3109,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mushroom Valley",
-        "img": "xgAlECj.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958826208198676/6sfmsp0w6xe61.jpg",
         "opts": {
             "series": [
                 "SWR",
@@ -3125,7 +3125,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Magmatic Sanctuary",
-        "img": "tZLYivt.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958826497613884/osaka5.png",
         "opts": {
             "series": [
                 "SWR",
@@ -3143,7 +3143,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DS Figure-8 Circuit",
-        "img": "VgJgaEf.png",
+        "img": "https://cdn.discordapp.com/attachments/217126063803727872/1151955585332432896/ybsad.png",
         "opts": {
             "series": [
                 "SA",
@@ -3156,7 +3156,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Unnamed Valley",
-        "img": "sqgJ2St.png",
+        "img": "https://cdn.discordapp.com/attachments/217126063803727872/1151955157123346473/alivechamp.png",
         "opts": {
             "series": [
                 "SA",
@@ -3170,7 +3170,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Volcano Canyon",
-        "img": "lkoAJod.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958826774446150/ranma9.jpg",
         "opts": {
             "series": [
                 "SA",
@@ -3184,7 +3184,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "N64 Luigi Raceway",
-        "img": "tDO653L.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958827038670920/shampoo.jpg",
         "opts": {
             "series": [
                 "SA",
@@ -3198,7 +3198,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nightlife Party",
-        "img": "dup7Nt6.png",
+        "img": "https://cdn.discordapp.com/attachments/1139612639572541460/1150471823968976916/RDT_20230910_140502965415887357621413.jpg",
         "opts": {
             "series": [
                 "SA",
@@ -3213,7 +3213,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lunar Spaceway",
-        "img": "uQjbw1W.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958847007768646/FQEbE-cXMAAprlE.jpg",
         "opts": {
             "series": [
                 "SA",
@@ -3229,7 +3229,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SNES Donut Plains 2",
-        "img": "DfdaXPW.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958849008435231/ETOOTz9.png",
         "opts": {
             "series": [
                 "SA",
@@ -3245,7 +3245,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Item Fireland",
-        "img": "wVCcens.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151961857641422929/trollato.png",
         "opts": {
             "series": [
                 "SA",
@@ -3262,7 +3262,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sunset Ridge",
-        "img": "EpHQbiY.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958861977231470/tumblr_bbe71d78235bd0b684cb83a3b171b361_85c8a245_640.jpg",
         "opts": {
             "series": [
                 "UFO",
@@ -3277,7 +3277,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Desert Mushroom Ruins",
-        "img": "kJbv4dc.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958863210348644/ranma5.jpg",
         "opts": {
             "series": [
                 "UFO",
@@ -3293,7 +3293,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Icepeak Mountain",
-        "img": "Fyn5yVx.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151961828050616350/osF.png",
         "opts": {
             "series": [
                 "UFO",
@@ -3309,7 +3309,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dreamworld Cloudway",
-        "img": "39KYpvW.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151961827815723098/oie.png",
         "opts": {
             "series": [
                 "UFO",
@@ -3323,7 +3323,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hellado Mountain",
-        "img": "5yihisu.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151961858807447693/YoshinoSleepy.png",
         "opts": {
             "series": [
                 "UFO",
@@ -3337,7 +3337,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Disco Fever",
-        "img": "2ppPxny.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151962228380143627/copium.png",
         "opts": {
             "series": [
                 "UFO",
@@ -3355,7 +3355,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Waluigi's Motocross",
-        "img": "zL4S8Mj.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151961857918255124/wearybread.png",
         "opts": {
             "series": [
                 "UFO",
@@ -3373,7 +3373,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Forest Creek",
-        "img": "LgvoTaJ.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151961829501845575/ree.png",
         "opts": {
             "series": [
                 "DS",
@@ -3387,7 +3387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sea Stadium",
-        "img": "VbqXiB6.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958848756789248/cbe8f8c23b0d0e0ebe85d0903ecc990c.jpg",
         "opts": {
             "series": [
                 "book",
@@ -3403,7 +3403,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Star Slope",
-        "img": "OBqgP48.png",
+        "img": "https://cdn.discordapp.com/attachments/1137316728024604723/1151958849272692737/F5hZHrzXoAAFF8Y.jpg",
         "opts": {
             "series": [
                 "book",
