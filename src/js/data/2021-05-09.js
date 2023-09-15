@@ -3417,4 +3417,68 @@ dataSet[dataSetVersion].characterData = [
             ]
         }
     },
+    {
+        "name": "GP Mario Beach",
+        "img": "https://cdn.discordapp.com/attachments/217126063803727872/1152082414114443365/MororoHibi.png",
+        "opts": {
+            "series": [
+                "UFO",
+                "DS",
+                "TD",
+                "HM",
+                "VD"
+            ],
+            "stage": [
+                "st4",
+                "st6",
+                "ex"
+            ]
+        }
+    },
+    {
+        "name": "Glacier Mine",
+        "img": "https://cdn.discordapp.com/attachments/217126063803727872/1152082414374502450/MoroHibiHa.png",
+        "opts": {
+            "series": [
+                "DS",
+                "HM",
+                "ISC"
+            ],
+            "stage": [
+                "ex"
+            ]
+        }
+    },
+    {
+        "name": "Alone and Incomplete",
+        "img": "https://cdn.discordapp.com/attachments/217126063803727872/1152082414718427217/MoroHibiHeart.png",
+        "opts": {
+            "series": [
+                "book",
+                "GFW",
+                "HM"
+            ],
+            "stage": [
+                "st1",
+                "st2",
+                "st3"
+            ]
+        }
+    },
+    {
+        "name": "Mech Factory",
+        "img": "https://cdn.discordapp.com/attachments/217126063803727872/1152082415012036678/MoroHibiWowie.png",
+        "opts": {
+            "series": [
+                "book",
+                "GFW",
+                "HM"
+            ],
+            "stage": [
+                "st1",
+                "st2",
+                "st3"
+            ]
+        }
+    },
 ]
